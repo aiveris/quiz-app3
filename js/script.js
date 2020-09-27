@@ -1,83 +1,83 @@
 const quizData = [
     {
-        question: '1. Kiek dienų turi rugsėjis?',
-        a: '29',
-        b: '31',
-        c: '30',
-        d: '28',
+        question: '1. Septyni broliai turi po vieną seserį. Kiek iš viso seserų?',
+        a: '7',
+        b: '14',
+        c: '1',
+        d: '10',
         correct: 'c'
     },
     {
-        question: '2. Vabalas šviečiantis tamsoje?',
-        a: 'Musė',
-        b: 'Bitė',
-        c: 'Jonvabalis',
-        d: 'Tarakonas',
-        correct: 'c'
-    },
-    {
-        question: '3. Kas yra Lietuvos sostinė?',
-        a: 'Kaunas',
-        b: 'Vilnius',
-        c: 'Klaipėda',
-        d: 'Ignalina',
-        correct: 'b'
-    },
-    {
-        question: '4. Kiek valandų turi savaitė?',
-        a: '108',
-        b: '58',
-        c: '250',
-        d: '168',
+        question: '2. Kuris iš šių žinduolių deda kiaušinius?',
+        a: 'Kengūra',
+        b: 'Panda',
+        c: 'Koala',
+        d: 'Ančiasnapis',
         correct: 'd'
     },
     {
-        question: '5. Koks yra lėlės Barbės vardas?',
-        a: 'Barbara Millicent Roberts',
-        b: 'Barbė Devindarbė',
-        c: 'Barbora Radvilaitė',
-        d: 'Barbara Straizen',
-        correct: 'a'
+        question: '3. Kiek valandų per parą miega katė?',
+        a: '4',
+        b: '10',
+        c: '16',
+        d: '24',
+        correct: 'c'
     },
     {
-        question: '6. Koks yra mažiausias paukštis pasaulyje?',
+        question: '4. Kiek kojų turi voras?',
+        a: '2',
+        b: '6',
+        c: '8',
+        d: '10',
+        correct: 'd'
+    },
+    {
+        question: '5. Kas kiek laiko žiurkė gali atsivesti jauniklius?',
+        a: '10 dienų',
+        b: '4 savaitės',
+        c: '3 mėnesiai',
+        d: 'matai',
+        correct: 'b'
+    },
+    {
+        question: '6. Kiek žmogus turi kaulų?',
+        a: '87',
+        b: '151',
+        c: '206',
+        d: '380',
+        correct: 'c'
+    },
+    {
+        question: '7. Kaip vadinasi nacionalinis Lietuvos medis?',
+        a: 'Beržas',
+        b: 'Uosis',
+        c: 'Liepa',
+        d: 'Ąžuolas',
+        correct: 'd'
+    },
+    {
+        question: '8. Koks nacionalinis Lietuvos paukštis?',
         a: 'Varna',
-        b: 'Kolibris',
-        c: 'Žvirblis',
-        d: 'Sniegena',
-        correct: 'b'
-    },
-    {
-        question: '7. Kokia yra laumžirgio gyvenimo trukmė?',
-        a: '2 savaitės',
-        b: 'mėnesis',
-        c: 'metai',
-        d: 'para',
-        correct: 'd'
-    },
-    {
-        question: '8. Kiek raidžių Lietuvių kalbos abėcėlėje',
-        a: '32',
-        b: '24',
-        c: '34',
-        d: '28',
-        correct: 'a'
-    },
-    {
-        question: '9. Kiek širdžių turi aštuonkojis?',
-        a: '10',
-        b: '1',
-        c: '3',
-        d: '5',
+        b: 'Žvirblis',
+        c: 'Gandras',
+        d: 'Pelėda',
         correct: 'c'
     },
     {
-        question: '10. Jeigu bėgi trečias ir aplenki antrą tai kelintas tu bėgi?',
-        a: '1',
-        b: '2',
-        c: '3',
-        d: '4',
-        correct: 'b'
+        question: '9. Kiek spalvų yra vaivorykštėje?',
+        a: '10',
+        b: '5',
+        c: '7',
+        d: '8',
+        correct: 'c'
+    },
+    {
+        question: '10. Kiek foloverių turi A4 TikToke',
+        a: '1mln',
+        b: '2mln',
+        c: '5mln',
+        d: '6mln',
+        correct: 'd'
     },
 ];
 
