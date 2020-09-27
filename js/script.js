@@ -29,7 +29,7 @@ const quizData = [
         b: '6',
         c: '8',
         d: '10',
-        correct: 'd'
+        correct: 'c'
     },
     {
         question: '5. Kas kiek laiko žiurkė gali atsivesti jauniklius?',
